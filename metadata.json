@@ -1,6 +1,6 @@
 {
-  "name": "Jack -- 3D Creator",
-  "description": "Portfolio landing page for Jack, a 3D creator driven by crafting striking and unforgettable 3D modeling, rendering, and motion design projects.",
+  "name": "Bolzoo Date — Болзооны урилга, эвлэрлийн захиа 💌",
+  "description": "Crush-даа болон хайртай хүндээ зориулсан 100% үнэгүй болзооны урилга, эвлэрлийн захиа үүсгэх хөөрхөн ягаан, бүдэг цэнхэр өнгө аястай платформ.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
