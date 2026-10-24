@@ -70,7 +70,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
           transition={{ duration: 0.7, delay: 0.15, ease: [0.25, 0.1, 0.25, 1] }}
           className="hero-heading font-black uppercase tracking-tight leading-none whitespace-nowrap w-full text-[14vw] sm:text-[15vw] md:text-[16vw] lg:text-[17.5vw] mt-6 sm:mt-4 md:-mt-5 select-none pointer-events-none"
         >
-          Hi, i&apos;m jack
+          HI, I&apos;M OCHKO
         </motion.h1>
       </div>
 
@@ -90,7 +90,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({
         >
           <img
             src={portraitUrl}
-            alt="Jack - 3D Creator portrait"
+            alt="Ochko - 3D Creator portrait"
             className="w-[280px] sm:w-[360px] md:w-[440px] lg:w-[520px] h-auto object-contain pointer-events-none drop-shadow-[0_20px_50px_rgba(0,0,0,0.8)]"
             loading="eager"
             referrerPolicy="no-referrer"

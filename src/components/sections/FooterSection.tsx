@@ -16,7 +16,7 @@ export const FooterSection: React.FC<FooterSectionProps> = ({ onOpenContact }) =
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-8">
         <div className="flex flex-col items-center md:items-start text-center md:text-left">
           <span className="text-2xl font-black uppercase tracking-tight text-white">
-            Jack
+            Ochko
           </span>
           <span className="text-xs uppercase tracking-widest text-[#D7E2EA]/50 mt-1">
             3D Creator & Visual Designer
@@ -41,7 +41,7 @@ export const FooterSection: React.FC<FooterSectionProps> = ({ onOpenContact }) =
       </div>
 
       <div className="max-w-6xl mx-auto mt-12 pt-6 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-[#D7E2EA]/40">
-        <span>© {new Date().getFullYear()} Jack. All rights reserved.</span>
+        <span>© {new Date().getFullYear()} Ochko. All rights reserved.</span>
         <div className="flex items-center gap-6">
           <span className="hover:text-white/80 transition-colors">Kanit Typography</span>
           <span>·</span>
